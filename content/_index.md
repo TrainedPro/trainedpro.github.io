@@ -1,6 +1,5 @@
 ---
 date: '2025-02-05T23:31:24+05:00'
-draft: true
 title: "Hassaan Anwar: Software Engineer & Data Scientist"
 description: "A portfolio showcasing my work in software engineering, data science, and open source contributions."
 ---
