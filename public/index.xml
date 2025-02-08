@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hassaan&#39;s Portfolio – Hassaan Anwar: Software Engineer &amp; Data Scientist</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Hassaan Anwar: Software Engineer &amp; Data Scientist on Hassaan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2025 23:31:24 +0500</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
