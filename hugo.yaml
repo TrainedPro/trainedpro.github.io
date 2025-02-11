@@ -1,6 +1,6 @@
 baseURL: https://trainedpro.github.io/
 languageCode: en-us
-title: Hassaan's Portfolio
+title: TrainedPro
 
 module:
   imports:
@@ -11,8 +11,14 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 1
-    - name: Search
+    - name: About Me
+      pageRef: /about-me
       weight: 2
+    - name: Contact
+      pageRef: /contact
+      weight: 3
+    - name: Search
+      weight: 6
       params:
         type: search
 
