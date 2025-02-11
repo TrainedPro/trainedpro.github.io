@@ -1,7 +1,7 @@
 ---
 date: '2025-02-11T12:46:20+05:00'
-draft: true
 title: 'Contact'
+toc: false
 ---
 
 ## Get in Touch
