@@ -3,10 +3,13 @@ date: "2025-02-11T13:16:10+05:00"
 title: "About Me"
 ---
 
+
 {{< callout type="info" >}}
 **Curiosity & Innovation**  
 I'm a technologist dedicated to transforming complex challenges into elegant solutions.
 {{< /callout >}}
+
+Hello, I'm Hassaan. From a young age, I've been captivated by the intricate systems that power our world. At 16, I delved into programming and discovered a profound satisfaction in bringing abstract concepts to life through code. The seamless blend of intangible logic and tangible outcomes in technology continues to fuel my passion and drive.
 
 {{< tabs items="Work Experience, Projects, Education & Achievements" >}}
 
