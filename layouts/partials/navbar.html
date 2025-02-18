@@ -4,7 +4,7 @@
 {{- $logoHeight := .Site.Params.navbar.logo.height | default "20" -}}
 {{- $logoDarkPath := .Site.Params.navbar.logo.dark | default $logoPath -}}
 
-{{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default false -}}
+{{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default true -}}
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
 {{- $footerSwitchesVisible := and $enableFooterSwitches (or hugo.IsMultilingual $displayThemeToggle) -}}
 
