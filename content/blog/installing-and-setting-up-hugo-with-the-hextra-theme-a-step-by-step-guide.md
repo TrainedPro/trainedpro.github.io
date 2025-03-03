@@ -1,6 +1,6 @@
 ---
 date: '2025-02-19T12:37:44+05:00'
-draft: true
+draft: false
 title: 'Installing and Setting Up Hugo With the Hextra Theme: a Step by Step Guide'
 authors:
   - name: TrainedPro
