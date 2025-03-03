@@ -17,6 +17,10 @@ tags:
 
 Welcome to my comprehensive guide on using Hugo with the Hextra theme. In this document, I share a step-by-step process, from installation to deployment, that will help you build a modern, responsive website with ease.
 
+{{< cards >}}
+{{< card title="Source Code" subtitle="The source code for the entire project is available on my GitHub." icon="github" link="https://github.com/TrainedPro/trainedpro.github.io">}}
+{{< /cards >}}
+
 ## 1. Introduction
 
 Welcome to this guide on installing and setting up **Hugo** with the **Hextra** theme. In this post, we'll walk you through everything you need to get started, from installing Hugo to configuring the Hextra theme, so you can build a beautiful, modern website or blog.
