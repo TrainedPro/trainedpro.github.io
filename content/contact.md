@@ -2,6 +2,7 @@
 date: '2025-02-11T12:46:20+05:00'
 title: 'Contact'
 toc: false
+comments: false
 ---
 
 ## Get in Touch
