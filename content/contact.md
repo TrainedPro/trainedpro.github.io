@@ -1,6 +1,7 @@
 ---
 date: '2025-02-11T12:46:20+05:00'
 title: 'Contact'
+description: "I'm Hassaan, and I love connecting with people. Whether you have questions, opportunities, or just want to chat, feel free to reach out via LinkedIn, Email, or Discord. I look forward to hearing from you!"
 toc: false
 comments: false
 ---

@@ -2,6 +2,7 @@
 date: '2025-02-19T12:37:44+05:00'
 draft: false
 title: 'Installing and Setting Up Hugo With the Hextra Theme: a Step by Step Guide'
+description: "In this guide, I walk you through installing Hugo Extended and setting up the Hextra theme step by step. I cover everything from creating a new Hugo site and configuring the theme using Hugo Modules or Git Submodules to customizing your site and deploying it on various platforms. Follow along to build your modern, responsive static website."
 authors:
   - name: TrainedPro
     link: https://github.com/TrainedPro

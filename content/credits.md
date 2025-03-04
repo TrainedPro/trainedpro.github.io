@@ -1,6 +1,7 @@
 ---
 date: '2025-02-11T20:12:26+05:00'
 title: 'Credits'
+description: "I built this website using modern web technologies like Hugo and the Hextra theme. I am grateful for the guidance and inspiration from mentors such as Yannick and Hisam Sahar, whose insights and support helped shape this project."
 toc: false
 comments: false
 ---

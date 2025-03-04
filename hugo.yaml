@@ -18,7 +18,7 @@ menu:
       pageRef: /contact
       weight: 3
     - name: Search
-      weight: 6
+      weight: 4
       params:
         type: search
 
@@ -53,6 +53,15 @@ params:
 
 
   dateFormat: "January, 2006"
+
+  # OpenGraph Configuration
+  title: "TrainedPro"
+  description: "A personal blog by Hassaan Anwar sharing projects, tech insights, and innovation."
+  images:
+    - ""  #! Add when i find an image for my site
+taxonomies:
+  series: series
+
 
 enableInlineShortcodes: true
 

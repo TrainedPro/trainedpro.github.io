@@ -1,5 +1,6 @@
 ---
 date: '2025-02-05T23:31:24+05:00'
+description: "Welcome to my personal corner on the web. I share my projects, tech insights, and occasional blog posts about software, data, and innovation. Explore my journey and connect with me on GitHub and LinkedIn."
 toc: false
 comments: false
 ---

@@ -1,5 +1,6 @@
 ---
 date: "2025-02-11T13:16:10+05:00"
+description: "Hello, I'm Hassaan. I have been fascinated by technology from a young age and turned my curiosity into a career in software engineering and data science. I love transforming complex challenges into innovative solutions and sharing my journey through my work, projects, and achievements."
 title: "About Me"
 comments: false
 ---
